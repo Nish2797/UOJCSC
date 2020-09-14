@@ -19,14 +19,8 @@ configure username and password
 git config --global user.name githubusername
 git config --global user.password githubpassword
 
+ishfkshfshf
+isjfsjfjsjgfajgajg;oakjgovj
+:wq
+jhghghgkgkgkhkj
 ======================================================
-=======================================================
-
-
-
-"new changes"
-1234567890
-
-
-
-======================================
