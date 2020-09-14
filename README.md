@@ -33,8 +33,7 @@ CSCUSER123@
 Maths change
 
 
-<<<<<<< HEAD
-New Changes
-=======
 New Changes in new 
->>>>>>> new
+
+
+New change in nisha
