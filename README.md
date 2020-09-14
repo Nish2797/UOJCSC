@@ -25,10 +25,9 @@ git config --global user.password githubpassword
 
 
 "new changes"
-<<<<<<< HEAD
-1234567890
-=======
 1234567890
 
 CSCUSER123@
->>>>>>> csc
+
+
+Maths change
